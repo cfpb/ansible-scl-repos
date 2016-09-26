@@ -1,4 +1,5 @@
 ---
-yum:
-  name: centos-release-scl-rh
-  state: installed
+- name: Install SCL for centos 7
+  yum:
+    name: centos-release-scl-rh
+    state: installed
