@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: your name
-  description: 
-  company: your company (optional)
+  author: Victor Cabral 
+  description: An ansible role to install Software Collections Lists
+  company: Excella Consulting 
   # Some suggested licenses:
   # - BSD (default)
   # - MIT
